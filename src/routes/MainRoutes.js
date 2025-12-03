@@ -1,7 +1,6 @@
 import { lazy } from 'react';
 
 // project imports
-// eslint-disable-next-line import/no-cycle
 import MainLayout from 'layout/MainLayout';
 import Loadable from 'ui-component/Loadable';
 

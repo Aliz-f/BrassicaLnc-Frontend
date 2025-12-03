@@ -26,7 +26,6 @@ import { TablePagination } from '@mui/material';
 import SearchBox from '../SearchBox';
 import api from 'routes/api.json';
 
-
 const headCells = [
     // { id: 'id', numeric: false, disablePadding: true, label: 'id' },
     {

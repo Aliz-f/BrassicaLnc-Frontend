@@ -32,7 +32,6 @@ import colors from 'assets/scss/_themes-vars.module.scss';
 import ChartCostructor from './ChartCostructor';
 import Lnc from './tables/Lnc';
 import Gft from './tables/Gft';
-// eslint-disable-next-line import/no-unresolved
 import SmallRna from './tables/SmallRna';
 import Target from './tables/Target';
 import PremiRNA from './tables/PremiRNA';

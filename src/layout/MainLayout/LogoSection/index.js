@@ -6,7 +6,7 @@ import { ButtonBase } from '@mui/material';
 // project imports
 import config from 'config';
 import Logo from 'ui-component/Logo';
-// eslint-disable-next-line import/no-cycle
+
 import MainRoutes from '../../../routes/MainRoutes';
 
 // ==============================|| MAIN LOGO ||============================== //

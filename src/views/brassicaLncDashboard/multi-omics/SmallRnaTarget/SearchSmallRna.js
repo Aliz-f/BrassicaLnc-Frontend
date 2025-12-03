@@ -26,7 +26,6 @@ const HeaderAvatarStyle = styled(Avatar, { shouldForwardProp })(({ theme }) => (
     }
 }));
 
-// eslint-disable-next-line import/prefer-default-export
 export default function SearchSmallRna({ searchQuerys, ...props }) {
     const theme = useTheme();
     // eslint-disable-next-line react-hooks/rules-of-hooks

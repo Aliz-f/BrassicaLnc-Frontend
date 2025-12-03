@@ -14,8 +14,7 @@ import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import axios from 'axios';
 import { toast } from 'react-toastify';
-import api from "routes/api.json";
-
+import api from 'routes/api.json';
 
 const headCells = [
     {

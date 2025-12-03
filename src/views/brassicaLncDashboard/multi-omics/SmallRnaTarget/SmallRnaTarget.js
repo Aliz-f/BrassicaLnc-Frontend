@@ -15,7 +15,7 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import { toast } from 'react-toastify';
-import api from "routes/api.json";
+import api from 'routes/api.json';
 
 const headCells = [
     { id: 'lncRNAID', numeric: false, disablePadding: true, label: 'LncRNA ID' },
