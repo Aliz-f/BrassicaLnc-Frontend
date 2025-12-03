@@ -118,8 +118,7 @@ const makeRows = async (getTableDataFromServerAPI, queryObjToServer) => {
     const rows = [];
     const countOfPagesInBsckend = [];
     await axios.post(api.mainURL + getTableDataFromServerAPI, queryObjToServer).then((res) => {
-        console.log(res);
-        res.data.data.map((a) =>
+        res.data.map((a) =>
             rows.push(
                 createData(
                     a.sequence,
