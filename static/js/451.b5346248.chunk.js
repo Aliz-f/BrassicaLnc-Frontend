@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkbrassica=self.webpackChunkbrassica||[]).push([[451],{1451:(n,s,e)=>{e.r(s),e.d(s,{default:()=>r});var i=e(8903),c=e(3440),a=e(579);const r=function(){return(0,a.jsx)(i.Ay,{container:!0,spacing:c.iL,children:(0,a.jsx)(i.Ay,{item:!0,xs:12,display:"flex",justifyContent:"center",children:(0,a.jsx)("h2",{children:"Comming Soon in BrassicaLnc V 2.0.0"})})})}}}]);
+//# sourceMappingURL=451.b5346248.chunk.js.map
